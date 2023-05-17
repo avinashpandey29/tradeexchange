@@ -1,0 +1,52 @@
+Order:  {'timestamp': 1678806319, 'symbol': 'INFY', 'name': 'Infosys', 'side': 'sell', 'quantity': 6, 'price': 1735.09907568014, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'TCS', 'name': 'Tata Consultancy Services', 'side': 'buy', 'quantity': 1, 'price': 2509.2999210589705, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'Wipro', 'name': 'WIpro Inc.', 'side': 'buy', 'quantity': 9, 'price': 991.0463674393415, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'REL', 'name': 'Reliance', 'side': 'buy', 'quantity': 8, 'price': 3812.4196396669186, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'INFY', 'name': 'Infosys', 'side': 'sell', 'quantity': 10, 'price': 1717.9115124164477, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'TCS', 'name': 'Tata Consultancy Services', 'side': 'sell', 'quantity': 1, 'price': 2967.619943894069, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'Wipro', 'name': 'WIpro Inc.', 'side': 'sell', 'quantity': 3, 'price': 816.6041927409058, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'REL', 'name': 'Reliance', 'side': 'sell', 'quantity': 3, 'price': 4175.507875779695, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'INFY', 'name': 'Infosys', 'side': 'sell', 'quantity': 9, 'price': 1728.1799497467612, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'TCS', 'name': 'Tata Consultancy Services', 'side': 'buy', 'quantity': 3, 'price': 2745.0978949205787, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'Wipro', 'name': 'WIpro Inc.', 'side': 'buy', 'quantity': 4, 'price': 925.9978015809917, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'REL', 'name': 'Reliance', 'side': 'sell', 'quantity': 3, 'price': 3651.943358439411, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'INFY', 'name': 'Infosys', 'side': 'buy', 'quantity': 7, 'price': 1665.6803804605827, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'TCS', 'name': 'Tata Consultancy Services', 'side': 'sell', 'quantity': 6, 'price': 2804.8796222392925, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'Wipro', 'name': 'WIpro Inc.', 'side': 'buy', 'quantity': 8, 'price': 920.08120119703, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'REL', 'name': 'Reliance', 'side': 'sell', 'quantity': 3, 'price': 3925.7294215112374, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'INFY', 'name': 'Infosys', 'side': 'buy', 'quantity': 8, 'price': 1875.637185214938, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'TCS', 'name': 'Tata Consultancy Services', 'side': 'sell', 'quantity': 7, 'price': 2615.326554567641, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'Wipro', 'name': 'WIpro Inc.', 'side': 'buy', 'quantity': 3, 'price': 820.5177130227534, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'REL', 'name': 'Reliance', 'side': 'sell', 'quantity': 9, 'price': 4405.146222202525, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'INFY', 'name': 'Infosys', 'side': 'buy', 'quantity': 1, 'price': 1831.5027178967816, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'TCS', 'name': 'Tata Consultancy Services', 'side': 'sell', 'quantity': 7, 'price': 3094.4042251957867, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'Wipro', 'name': 'WIpro Inc.', 'side': 'buy', 'quantity': 7, 'price': 836.8947536274554, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'REL', 'name': 'Reliance', 'side': 'buy', 'quantity': 1, 'price': 4228.330351336804, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'INFY', 'name': 'Infosys', 'side': 'sell', 'quantity': 8, 'price': 1607.100828901222, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'TCS', 'name': 'Tata Consultancy Services', 'side': 'sell', 'quantity': 4, 'price': 2489.5313481413014, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'Wipro', 'name': 'WIpro Inc.', 'side': 'buy', 'quantity': 7, 'price': 817.9008029974574, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'REL', 'name': 'Reliance', 'side': 'sell', 'quantity': 4, 'price': 3755.493190766918, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'INFY', 'name': 'Infosys', 'side': 'sell', 'quantity': 5, 'price': 1712.4908854211537, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'TCS', 'name': 'Tata Consultancy Services', 'side': 'buy', 'quantity': 10, 'price': 2825.5428977335127, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'Wipro', 'name': 'WIpro Inc.', 'side': 'buy', 'quantity': 6, 'price': 997.1897452772062, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'REL', 'name': 'Reliance', 'side': 'sell', 'quantity': 5, 'price': 3886.229077315614, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'INFY', 'name': 'Infosys', 'side': 'buy', 'quantity': 10, 'price': 1530.332425042943, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'TCS', 'name': 'Tata Consultancy Services', 'side': 'sell', 'quantity': 9, 'price': 2912.2217065855257, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'Wipro', 'name': 'WIpro Inc.', 'side': 'sell', 'quantity': 9, 'price': 859.323865553505, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'REL', 'name': 'Reliance', 'side': 'sell', 'quantity': 7, 'price': 3851.853101561667, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'INFY', 'name': 'Infosys', 'side': 'buy', 'quantity': 6, 'price': 1622.7173711451096, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'TCS', 'name': 'Tata Consultancy Services', 'side': 'buy', 'quantity': 2, 'price': 2681.6531513850846, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'Wipro', 'name': 'WIpro Inc.', 'side': 'sell', 'quantity': 1, 'price': 812.180755454005, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'REL', 'name': 'Reliance', 'side': 'sell', 'quantity': 9, 'price': 4498.357874377063, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'INFY', 'name': 'Infosys', 'side': 'sell', 'quantity': 9, 'price': 1866.4154772498564, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'TCS', 'name': 'Tata Consultancy Services', 'side': 'sell', 'quantity': 2, 'price': 2559.1174199104794, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'Wipro', 'name': 'WIpro Inc.', 'side': 'buy', 'quantity': 1, 'price': 809.9834830806402, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'REL', 'name': 'Reliance', 'side': 'buy', 'quantity': 6, 'price': 4287.846314884945, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'INFY', 'name': 'Infosys', 'side': 'buy', 'quantity': 1, 'price': 1548.7200431005026, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'TCS', 'name': 'Tata Consultancy Services', 'side': 'sell', 'quantity': 5, 'price': 3012.100795050495, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'Wipro', 'name': 'WIpro Inc.', 'side': 'sell', 'quantity': 7, 'price': 953.5296557979592, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'REL', 'name': 'Reliance', 'side': 'buy', 'quantity': 3, 'price': 3751.2264810506736, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'INFY', 'name': 'Infosys', 'side': 'buy', 'quantity': 2, 'price': 1846.7250107689974, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'TCS', 'name': 'Tata Consultancy Services', 'side': 'sell', 'quantity': 4, 'price': 3012.3579250901953, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'Wipro', 'name': 'WIpro Inc.', 'side': 'sell', 'quantity': 5, 'price': 1034.740596110694, 'valid_until': '2023-03-14 23:00:00'}
+Order:  {'timestamp': 1678806319, 'symbol': 'REL', 'name': 'Reliance', 'side': 'buy', 'quantity': 2, 'price': 4500.857199677225, 'valid_until': '2023-03-14 23:00:00'}
